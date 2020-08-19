@@ -9,7 +9,7 @@
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/guirvilela/Desafio02-Conceitos-Nodejs?color=%2304D361">
 
-  <a href="https://www.linkedin.com/in/guirvilela/">
+  <a href="https://www.linkedin.com/in/guilhermeribeirovilela/">
     <img alt="Made by guirvilela" src="https://img.shields.io/badge/made%20by-guirvilela-%2304D361">
   </a>
 
