@@ -1,4 +1,4 @@
-<img alt="GoStack" src="./.github/gostack header.png" />
+<img alt="GoStack" src="https://camo.githubusercontent.com/a869a2aaab296ef925343d7e76518cd213eb0a30/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d676f737461636b2f6865616465722d6465736166696f732d6e65772e706e67" />
 
 <h3 align="center">
   Desafio 02: Conceitos do Node.js
@@ -7,16 +7,16 @@
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://camo.githubusercontent.com/a869a2aaab296ef925343d7e76518cd213eb0a30/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d676f737461636b2f6865616465722d6465736166696f732d6e65772e706e67">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/guirvilela/desafio-02-conceitos-nodejs?color=%2304D361">
 
-  <a href="https://www.linkedin.com/in/danielobara/">
-    <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
+  <a href="https://www.linkedin.com/in/guirvilela/">
+    <img alt="Made by guirvilela" src="https://img.shields.io/badge/made%20by-guirvilela-%2304D361">
   </a>
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/DanielObara/desafio-02-conceitos-nodejs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/DanielObara/desafio-02-conceitos-nodejs?style=social">
+  <a href="https://github.com/guirvilela/desafio-02-conceitos-nodejs/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/guirvilela/desafio-02-conceitos-nodejs?style=social">
   </a>
 </p>
 
