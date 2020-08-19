@@ -7,7 +7,7 @@
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/guirvilela/desafio-02-conceitos-nodejs?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/guirvilela/Desafio02-Conceitos-Nodejs?color=%2304D361">
 
   <a href="https://www.linkedin.com/in/guirvilela/">
     <img alt="Made by guirvilela" src="https://img.shields.io/badge/made%20by-guirvilela-%2304D361">
@@ -15,8 +15,8 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/guirvilela/desafio-02-conceitos-nodejs/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/guirvilela/desafio-02-conceitos-nodejs?style=social">
+  <a href="https://github.com/guirvilela/Desafio02-Conceitos-Nodejs/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/guirvilela/Desafio02-Conceitos-Nodejs?style=social">
   </a>
 </p>
 
