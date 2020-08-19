@@ -7,7 +7,7 @@
 <p align="center">“Não espere para plantar, apenas tenha paciência para colher”!</blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/DanielObara/desafio-02-conceitos-nodejs?color=%2304D361">
+  <img alt="GitHub language count" src="https://camo.githubusercontent.com/a869a2aaab296ef925343d7e76518cd213eb0a30/68747470733a2f2f73746f726167652e676f6f676c65617069732e636f6d2f676f6c64656e2d77696e642f626f6f7463616d702d676f737461636b2f6865616465722d6465736166696f732d6e65772e706e67">
 
   <a href="https://www.linkedin.com/in/danielobara/">
     <img alt="Made by DanielObara" src="https://img.shields.io/badge/made%20by-DanielObara-%2304D361">
@@ -38,9 +38,7 @@ Para te ajudar nesse desafio, criamos para você um modelo que você deve utiliz
 
 O template está disponível na seguinte url: **[Acessar Template](https://github.com/Rocketseat/gostack-template-conceitos-nodejs)**
 
-
 **Dica**: Caso não saiba utilizar repositórios do Github como template, temos um guia em **[nosso FAQ](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/faq-desafios).**
-
 
 Agora navegue até a pasta criada e abra no Visual Studio Code, lembre-se de executar o comando `yarn` no seu terminal para instalar todas as dependências.
 
